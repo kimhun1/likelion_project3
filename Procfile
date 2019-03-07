@@ -1,1 +1,1 @@
-web: gunicorn likelion_op_project.wsgi --log-file -
+web: gunicorn op_project.wsgi --log-file -
