@@ -1,1 +1,1 @@
-web: gunicorn thirdproject.wsgi --log-file -
+web: gunicorn likelion_op_project.wsgi --log-file -
